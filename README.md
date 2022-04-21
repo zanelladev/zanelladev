@@ -1,6 +1,10 @@
+<h1 align="center">
+    <a href="https://farahelahmadi.me">
+       <img  src="https://im4.ezgif.com/tmp/ezgif-4-f430ee6542.gif" alt="banner">
+    <a/>
+</h1>
 
-<div align="center">
-    <br>
-    <img src="https://metrics.lecoq.io/zanelladev?template=classic&isocalendar=1&languages=1&isocalendar.duration=halfyear&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo">
-</div>
-
+<p align="center">
+  I am ARTUR FELIPPE ZANELLA, I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
+  I think it's essential always to keep professional and surround yourself with good people,<br> work hard, and be nice to everyone.
+<p/>
