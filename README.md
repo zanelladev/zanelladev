@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="">
-       <img  src="https://s10.gifyu.com/images/ezgif-4-f430ee6542.gif" alt="banner">
+       <img  src="https://cdn.discordapp.com/attachments/573662387115393025/978440485418963035/Untitled.gif" alt="banner">
     <a/>
 </h1>
 
