@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://www.linkedin.com/in/artur-zanella-928279238/">
-       <img  src="https://cdn.discordapp.com/attachments/573662387115393025/978792059215446087/Untitled_1.gif" alt="banner">
+       <img  src="https://cdn.discordapp.com/attachments/573662387115393025/978440485418963035/Untitled.gif" alt="banner">
     <a/>
 </h1>
 
