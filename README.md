@@ -5,6 +5,5 @@
 </h1>
 
 <p align="center">
-  I am ARTUR FELIPPE ZANELLA, I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
-  I think it's essential always to keep professional and surround yourself with good people,<br> work hard, and be nice to everyone.
+  My name is Artur Felippe Zanella, I'm 17 years old, I started developing software in 2021, and I consider myself a persistent, hardworking and adaptable person. My       focus is developing with Java, SQL and Flutter.
 <p/>
