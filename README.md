@@ -5,5 +5,5 @@
 </h1>
 
 <p align="center">
-  My name is Artur Felippe Zanella, I'm 17 years old, I started developing software in 2021, and I consider myself a persistent, hardworking and adaptable person. My       focus is developing with Java, SQL and Flutter.
+  Hello, my name is Artur Felippe Zanella, I'm 18 years old, I've always been interested in technologies, around my 15 years old, out of curiosity, I started to create and modify scripts, also how to use databases. In 2021, I started to study for real, training my logic a lot and exploring several programming languages, of these, Flutter interested me, which I have been studying currently. I consider myself a calm, respectful, and curious person, always open to new challenges.
 <p/>
