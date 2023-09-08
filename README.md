@@ -1,6 +1,6 @@
 ## `? about me`
 
-I'm currently a freelance mobile developer, working with Flutter framework. Good at teamwork, considering myself cheerful, calm and daring. I love logic.
+I'm currently a software engineer at Movtech Systems, working with Flutter framework. Good at teamwork, considering myself cheerful, calm and daring. I love logic.
 
 ## `? technologies`
 
